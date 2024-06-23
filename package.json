@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "@fastify/jwt": "^8.0.1",
+    "@fastify/schedule": "^4.1.1",
     "fastify": "^4.28.0",
+    "mongoose": "^8.4.3",
+    "toad-scheduler": "^3.0.1",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
